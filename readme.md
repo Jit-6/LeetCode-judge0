@@ -40,7 +40,6 @@ This step is mandatory. Do NOT skip it.
 
 After your computer restarts:
 
-Method 1 (Recommended)
 
 - Press Windows Key
 
